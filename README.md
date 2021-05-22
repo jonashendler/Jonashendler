@@ -3,7 +3,7 @@
 
 ## Quem sou? 
 
-* Cientista de Dados.
+* 📈 Cientista de Dados.
 * Pesquisador
 * Bacharel em Estatística - UFRGS.
 * Licenciado em Matemática
