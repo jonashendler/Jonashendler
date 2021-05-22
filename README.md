@@ -1,16 +1,27 @@
-### Hi there 👋
+# **Olá, eu sou Jonas** 👋 
+###  
 
-<!--
-**jonashendler/Jonashendler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quem sou? 
 
-Here are some ideas to get you started:
+* Cientista de Dados.
+* Pesquisador
+* Bacharel em Estatística - UFRGS.
+* Licenciado em Matemática
+* Professor de Matemática e Estatística.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills
+
+* 🐍 Python.
+* 📈 R.
+* 🗄 SQL.
+* 🧮 Power BI.
+* 🔮 Machine Learning. 
+
+
+## Find me around the world :earth_americas:
+
+*  [Linkedin](https://www.linkedin.com/in/jonas-hendler/)
+
+
+## **My projects**
