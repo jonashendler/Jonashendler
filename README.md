@@ -19,7 +19,7 @@
 * 🔮 Machine Learning. 
 
 
-## Find me around the world :earth_americas:
+## Encontrem-me também em: earth_americas:
 
 *  [Linkedin](https://www.linkedin.com/in/jonas-hendler/)
 
