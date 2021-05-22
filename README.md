@@ -3,11 +3,11 @@
 
 ## Quem sou? 
 
-* 📈 Cientista de Dados.
-* Pesquisador
-* Bacharel em Estatística - UFRGS.
-* Licenciado em Matemática
-* Professor de Matemática e Estatística.
+* 👨‍💻 Cientista de Dados.
+* 📚 Pesquisador
+* 🎓Bacharel em Estatística - UFRGS.
+* 🎓Licenciado em Matemática
+* 👨🏼‍🏫 Professor de Matemática e Estatística.
 
 
 ## Skills
@@ -15,7 +15,7 @@
 * 🐍 Python.
 * 📈 R.
 * 🗄 SQL.
-* 🧮 Power BI.
+* 📊 Power BI.
 * 🔮 Machine Learning. 
 
 
