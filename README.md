@@ -19,9 +19,4 @@
 * 🔮 Machine Learning. 
 
 
-## Encontrem-me também em :earth_americas:
-
-*  [Linkedin](https://www.linkedin.com/in/jonas-hendler/)
-
-
 ## **My projects**
