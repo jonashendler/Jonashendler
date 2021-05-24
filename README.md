@@ -5,6 +5,7 @@
 
 * 👨‍💻 Cientista de Dados.
 * 📚 Pesquisador
+* 🔎 Consultor
 * 🎓Mestrando em Estatística
 * 🎓Bacharel em Estatística - UFRGS.
 * 🎓Licenciado em Matemática
