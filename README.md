@@ -5,9 +5,9 @@
 
 * 👨‍💻 Cientista de Dados
 * 🔎 Consultor
-* 🎓Mestrando em Estatística
+* 🎓Mestrando em Estatística - UFRGS
 * 🎓Bacharel em Estatística - UFRGS
-* 🎓Licenciado em Matemática
+* 🎓Licenciado em Matemática - UFRGS
 * 👨🏼‍🏫 Professor de Matemática e Estatística
 
 
