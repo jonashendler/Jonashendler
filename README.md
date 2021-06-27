@@ -3,7 +3,7 @@
 
 ## Quem sou? 
 
-* 👨‍💻 Cientista de Dados
+* 👨‍💻 Analista/Cientista de Dados
 * 🔎 Consultor
 * 🎓Mestrando em Estatística - UFRGS
 * 🎓Bacharel em Estatística - UFRGS
